@@ -83,7 +83,7 @@ body {
     color: var(--Dark-gray);
     padding-top: .5em;
     margin-top: .5em;
-    border-bottom: 1px solid var(--Dark-gray);
+    border-bottom: 1px solid hsla(0, 0%, 59%, 0.342);
     padding-bottom: 1.75em;
 }
 
@@ -104,8 +104,8 @@ body {
     flex-direction: row;
     gap: 3em;
     padding-top: 2em;
-    padding-right: 2.75em;
-    padding-left: 2em;
+    padding-right: 3em;
+    padding-left: 3em;
     padding-bottom: 2em;
 }
 
